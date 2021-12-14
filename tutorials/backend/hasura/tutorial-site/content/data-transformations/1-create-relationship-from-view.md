@@ -15,6 +15,8 @@ We are mapping the current view's id column to users table's id column to create
 
 ![create relationship from view](https://graphql-engine-cdn.hasura.io/learn-hasura/assets/graphql-hasura/create-relationship-view.png)
 
+Click `Save` 
+
 Let's explore the GraphQL APIs for the relationship created.
 
 ```graphql
